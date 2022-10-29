@@ -13,3 +13,5 @@ IPAdmin - первая версия программы (bat и ps1).
 Проверка статуса сервера производится по средствам отслеживания службы.
 
 По вопросам и предложениям в Telegram @kup57
+
+![Image alt](https://github.com/Lifailon/iperf-gui/blob/rsa/Interface-iperf-GUI.jpg)
