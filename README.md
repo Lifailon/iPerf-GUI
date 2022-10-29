@@ -1,7 +1,5 @@
 # iPerf-GUI
-Internet Performance Graphical User Interface - это графическая (gui WinForms) и руссифицированная версия программы iperf 3.1.3 (Open Source Software).  IPAdmin - первая версия программы (bat и ps1). Протестирован на Windows 10 и Windows Server 2016.
-
-Полноценная программа, для установки на компьютер используется пакет SFX (iPerf-GUI-Install.exe) с расположением в "C:\Program Files\iPerf GUI\" и ярлыком на рабочем столе исполняемого файла запуска программы (упакованный ps2exe). В директории images находится файл шрифтов и используемых иконок, в директории iperf исполняемый файл и его dll;
+Internet Performance Graphical User Interface - это графическая (gui WinForms) и руссифицированная версия программы iperf 3.1.3 (Open Source Software).  IPAdmin - первая версия программы (bat и ps1). Протестирован на Windows 10 и Windows Server 2016. Для установки используется пакет SFX (iPerf-GUI-Install.exe) с расположением в "C:\Program Files\iPerf GUI\" и ярлыком на рабочем столе исполняемого файла запуска программы (упакованный ps2exe). В директории images находится файл шрифтов и используемых иконок, в директории iperf исполняемый файл и его dll;
 
 Особенности:
 
