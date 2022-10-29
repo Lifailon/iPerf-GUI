@@ -1,5 +1,5 @@
 # iperf-gui
-Internet Performance Graphical User Interface - это графическая (gui WinForms) и руссифицированная версия программы iperf 3.1.3 (Open Source Software).  IPAdmin - первая версия программы (bat и ps1).
+Internet Performance Graphical User Interface - это графическая (gui WinForms) и руссифицированная версия программы iperf 3.1.3 (Open Source Software).  IPAdmin - первая версия программы (bat и ps1). Протестирован на Windows 10 и Windows Server 2016.
 
 Особенности:
 
